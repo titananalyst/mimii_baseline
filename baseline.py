@@ -515,7 +515,7 @@ if __name__ == "__main__":
                                               n_fft=param["feature"]["n_fft"],
                                               hop_length=param["feature"]["hop_length"],
                                               power=param["feature"]["power"])
-
+            print(train_data)
             save_pickle(train_pickle, train_data)
             save_pickle(eval_files_pickle, eval_files)
             save_pickle(eval_labels_pickle, eval_labels)

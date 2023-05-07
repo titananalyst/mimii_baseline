@@ -1,0 +1,24 @@
+pump_id_00_0dB:
+  AUC: 0.618709961367304
+pump_id_00_6dB:
+  AUC: 0.776370482664189
+pump_id_00_min6dB:
+  AUC: 0.5757738764731771
+pump_id_02_0dB:
+  AUC: 0.5096988880772665
+pump_id_02_6dB:
+  AUC: 0.4815355896436978
+pump_id_02_min6dB:
+  AUC: 0.518626734842951
+pump_id_04_0dB:
+  AUC: 0.9589
+pump_id_04_6dB:
+  AUC: 0.993
+pump_id_04_min6dB:
+  AUC: 0.9153
+pump_id_06_0dB:
+  AUC: 0.875048058439062
+pump_id_06_6dB:
+  AUC: 0.9445405613225683
+pump_id_06_min6dB:
+  AUC: 0.6142829680891964
